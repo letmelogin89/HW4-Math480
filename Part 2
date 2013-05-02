@@ -30,7 +30,7 @@ L = primes(10000000)
  Conjecture: According to my histogram, it is symmetrical around the mid point.
 3)
  General Conjecture: When n is prime numbers, every number range from 1 to n-1 is hit
- if n is non-prime, the histogram looks symmetric along n/2(mid point)
+ if n is non-prime, the histogram looks symmetric along n/2(mid point) and not every number is hit.
  """
 ︠e1a0fa64-dafa-40a6-961b-eb0a16560b28︠
 list1 = []
